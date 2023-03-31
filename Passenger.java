@@ -32,3 +32,14 @@ System.out.println("40-50\t\t"+ageGroups[4]);
 System.out.println("50+\t\t"+ageGroups[5]);
 }
 }
+
+
+
+//Output
+Age group	Count
+0-10		1
+10-20		2
+20-30		2
+30-40		2
+40-50		2
+50+	    2  //
